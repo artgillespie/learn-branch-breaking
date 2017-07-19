@@ -5,4 +5,4 @@ const ComponentThree = props =>
     <p>This is component three!</p>
   </div>
 
-export ComponentThree
+export default ComponentThree
