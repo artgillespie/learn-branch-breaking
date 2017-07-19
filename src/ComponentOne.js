@@ -1,4 +1,5 @@
 import React from 'react'
+import './componentOne.css'
 
 const ComponentOne = props =>
   <div>
