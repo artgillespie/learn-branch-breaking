@@ -5,3 +5,5 @@ const ComponentOne = props =>
     <h1>Component One</h1>
     <ul />
   </div>
+
+export default ComponentOne
